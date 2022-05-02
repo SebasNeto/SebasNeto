@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SebasNeto;
+- Estudante do curso de Ciência da Computação na Universidade Federal do Amazonas;
+- Afinidade com python e aprendendo ainda mais sobre programação Web;
 - 👀 I’m interested in aprender sobre o universo da programação;
-r- 💞️ I’m looking to  ensinamentos  e prática;
 - 📫 How to reach me  sebastiao.neto@icomp.ufam.edu.br;
 
 <!---
