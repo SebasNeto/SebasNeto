@@ -1,4 +1,8 @@
-# 👋 Hi there
+👋 Oi, @SebasNeto;
+Estudante do curso de Ciência da Computação na Universidade Federal do Amazonas;
+Afinidade com Python, C e aprendendo sobre programação Web;
+👀 interessado em aprender sobre o universo da programação;
+📫 Como chegar ao discente sebastiao.neto@icomp.ufam.edu.br;
 
 # 💻 Tech Stack
 Linguagem Python
