@@ -1,4 +1,4 @@
-👋 Oi, @SebasNeto;
+👋 Hello, @SebasNeto;
 
 Estudante do curso de Ciência da Computação na Universidade Federal do Amazonas;
 
