@@ -2,8 +2,11 @@
 
 # 💻 Tech Stack
 Linguagem Python
+
 Linguagem C
+
 Linguagem Java 
+
 Processamento de Imagens
 
 
