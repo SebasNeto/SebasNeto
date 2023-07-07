@@ -2,7 +2,7 @@
 
 Estudante do curso de Ciência da Computação na Universidade Federal do Amazonas;
 
-👀 interessado em aprender sobre o universo da programação;
+👀 Interessado em aprender sobre o universo da programação;
 
 📫 Como chegar ao discente: sebastiao.neto@icomp.ufam.edu.br;
 
