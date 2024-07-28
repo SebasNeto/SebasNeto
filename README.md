@@ -2,7 +2,7 @@
 
 Estudante do curso de Ciência da Computação na Universidade Federal do Amazonas;
 
-Atualmente estou trabalhando em projeto de iniciação cientifica (PIBIC) que envolve programação paralela e processamento de imagens. 
+Atualmente estou trabalhando em projeto de iniciação cientifica (PIBIC) que envolve programação paralela e processamento de imagens;
 
 👀 Interessado em aprender sobre o universo da programação;
 
