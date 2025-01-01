@@ -39,29 +39,32 @@
 ## 📊 **Estatísticas do GitHub**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebasNeto&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebasNeto&theme=radical&hide_border=false" alt="GitHub Streak Stats" width="48%" />
+  <!-- Estatísticas gerais do perfil -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SebasNeto&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas gerais do GitHub" width="60%" />
 </div>
 
+---
+
 <div align="center">
+  <!-- Contribuições recentes -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebasNeto&theme=radical&hide_border=false" alt="Contribuições nos últimos dias" width="60%" />
+</div>
+
+---
+
+<div align="center">
+  <!-- Linguagens mais usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasNeto&theme=radical&hide_border=false&layout=compact" alt="Linguagens Mais Usadas" width="60%" />
 </div>
 
 ---
 
 ## 🌐 **Redes Sociais**
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sebas._neto/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebasti%C3%A3o-bicharra-ba53a81b7/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://sebasneto.github.io/Sebas/)
 
 ---
-
-## 🚀 **Projetos Destacados**
-
-- 🖼️ [Projeto de Processamento de Imagens](#): Detalhes automatizados em breve.
-- 🖥️ [Análise de Algoritmos Paralelos](#): Mais informações adicionadas conforme disponíveis.
-
----
-
-⭐ **Explore meus repositórios e descubra mais sobre meus projetos!**
 
 
