@@ -6,22 +6,17 @@ Atualmente estou trabalhando em projeto de iniciação cientifica (PIBIC) que en
 
 👀 Interessado em aprender sobre o universo da programação;
 
-📫 Como chegar ao discente: sebastiao.neto@icomp.ufam.edu.br;
+📫 Como chegar ao discente: sebastiao.neto@icomp.ufam.edu.br; sebastiaobicharraneto@gmail.com
 
 # 💻 Tech Stack
-Linguagem Python
-
-Linguagem C e C++
-
-Linguagem Java 
-
-Linguagem Halide
-
-Processamento de Imagens
+Linguagens tradicionais: Python, C, C++, Java.
+Tecnologias para processamento de imagens: Halide.
+Tecnologias para programação paralela: Halide, OpenMP, Gulia. 
+Tecnologias para programação web: JavaScript, JavaScript (Node.js), HTML, CSS, SQL, NoSQL.
 
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebasti%C3%A3o-bicharra-ba53a81b7/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)]() [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]() 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebasti%C3%A3o-bicharra-ba53a81b7/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)]() 
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=SebasNeto&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebasNeto&theme=neon&hide_border=false"  width="400px" />
