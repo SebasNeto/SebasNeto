@@ -46,13 +46,6 @@
 ---
 
 <div align="center">
-  <!-- Contribuições recentes -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebasNeto&theme=radical&hide_border=false" alt="Contribuições nos últimos dias" width="60%" />
-</div>
-
----
-
-<div align="center">
   <!-- Linguagens mais usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasNeto&theme=radical&hide_border=false&layout=compact" alt="Linguagens Mais Usadas" width="60%" />
 </div>
