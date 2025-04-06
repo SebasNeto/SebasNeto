@@ -7,7 +7,7 @@
 📫 **Como me contatar**:  
 - ✉️ Email: sebastiao.neto@icomp.ufam.edu.br | sebastiaobicharraneto@gmail.com  
 - 🌐 [Meu LinkedIn](https://www.linkedin.com/in/sebasti%C3%A3o-bicharra-ba53a81b7/)
-- 🌐 .[Portifólio](https://bit.ly/3EFypBd) 
+- 🌐 [Portifólio](https://bit.ly/3EFypBd) 
 
 ---
 
