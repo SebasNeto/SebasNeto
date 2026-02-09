@@ -37,21 +37,12 @@
 
 ---
 
-## 📊 **Estatísticas do GitHub**
+## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <!-- Estatísticas gerais do perfil -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SebasNeto&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas gerais do GitHub" width="60%" />
-</div>
+| Stats | Linguagens |
+| --- | --- |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebasNeto&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default#gh-light-mode-only)![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebasNeto&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark#gh-dark-mode-only) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebasNeto&layout=compact&hide_border=true&theme=default#gh-light-mode-only)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebasNeto&layout=compact&hide_border=true&theme=github_dark#gh-dark-mode-only) |
 
----
-
-<div align="center">
-  <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasNeto&theme=radical&hide_border=false&layout=compact" alt="Linguagens Mais Usadas" width="60%" />
-</div>
-
----
 
 ## 🌐 **Redes Sociais**
 
