@@ -1,7 +1,7 @@
 # 👋 Olá, Eu sou Sebastião Neto!
 
-🎓 **Estudante de Ciência da Computação** na Universidade Federal do Amazonas (UFAM).  
-🔬 Atualmente, desenvolvendo projetos de **iniciação científica (PIBIC)** focados em **programação paralela** e **processamento de imagens**.  
+🎓 **Cientista da Computação** graduado pela Universidade Federal do Amazonas (UFAM).  
+🔬 Desenvolvimento de soluções focados em **programação paralela** e **processamento de imagens**.  
 🌱 Sempre buscando aprender mais sobre o vasto universo da programação e tecnologia.  
 
 📫 **Como me contatar**:  
