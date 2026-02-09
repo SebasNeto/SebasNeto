@@ -39,9 +39,10 @@
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebasNeto&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=SebasNeto&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebasNeto&layout=compact&hide_border=true&theme=github_dark)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=SebasNeto&layout=compact&hide_border=true&theme=github_dark&cache_seconds=86400)
+
 
 ---
 
