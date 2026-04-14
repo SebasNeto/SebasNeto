@@ -1,7 +1,7 @@
 # 👋 Olá, Eu sou Sebastião Neto!
 
 🎓 **Cientista da Computação** graduado pela Universidade Federal do Amazonas (UFAM).  
-🎓 **Mestrando em Cientista da Computação** pela Universidade Federal do Amazonas (UFAM) com conclusão previstas para Dezembro de 2027.
+🎓 **Mestrando em Ciencia da Computação** pela Universidade Federal do Amazonas (UFAM), com conclusão prevista para Dezembro de 2027.
 🔬 Desenvolvimento de soluções focados em **programação paralela** e **processamento de imagens**.  
 🌱 Sempre buscando aprender mais sobre o vasto universo da programação e tecnologia.  
 
